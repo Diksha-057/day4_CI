@@ -14,7 +14,7 @@ function App() {
       <main className="hero">
         <div className="badge">React + CI/CD</div>
 
-        <h1>Welcome to My Demo Project 🚀</h1>
+        <h1>Welcome to My Demo Project 🚀 - CI Demo Project</h1>
 
         <p>
           This is a simple React frontend created to test your
